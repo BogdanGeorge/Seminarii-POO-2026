@@ -1,0 +1,47 @@
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# Build output and intermediate files
+**/Debug/
+**/x64/
+*.user
+
+# Compiled binaries and intermediate artifacts
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.iobj
+*.ipdb
+*.exp
+*.res
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.VC.db
+*.VC.VC.opendb
+
+# Other temporary files
+*.cache
+*.tmp
+*.dmp
+*.mdmp
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
